@@ -74,6 +74,9 @@ function Step() {
             <Button bgColor="#7950f2" textColor="#fff" onClick={handleNext}>
               <span>👉 Next</span>
             </Button>
+            <select>
+              <option value=""></option>
+            </select>
           </div>
         </div>
       )}
